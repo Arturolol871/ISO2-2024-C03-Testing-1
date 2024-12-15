@@ -21,7 +21,8 @@ Realizado por:
 | Elías González Valdepeñas    | elias.gonzalez@alu.uclm.es   |
 | Jesús Calleja Soto	         | jesus.callejas@alu.uclm.es  |
 
-(insertar la imagen aqui)
+![image](https://github.com/user-attachments/assets/4f0719c8-e801-443a-acc2-a22a98980dbc)
+
 
 ## *3. Testing con JUnit*
 Realizado por:
@@ -30,7 +31,7 @@ Realizado por:
 | Arturo Avilés Morillas              | [arturo.aviles@alu.uclm.es](mailto:arturo.aviles@alu.uclm.es) |
 | María Belén Gallego-Casilda Sánchez | [mbelen.gallego@alu.uclm.es](mailto:mbelen.gallego@alu.uclm.es)| 
 
+![image](https://github.com/user-attachments/assets/37638f23-d57e-4b51-911e-7c539aa36b77)
 
-![image](https://github.com/user-attachments/assets/804f24bf-2a4d-4a47-bdac-5c9696400f6e)
 
-![image](https://github.com/user-attachments/assets/0ede62b8-ea77-48e1-aaa0-e0df2728e780)
+
