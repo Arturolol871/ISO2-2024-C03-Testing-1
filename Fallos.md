@@ -2,6 +2,8 @@
 
 La cobertura de código es una métrica importante que nos ayuda a entender qué tan bien estamos probando nuestro código. En este caso, el resultado de cobertura de **0** se debió a una combinación de problemas en las pruebas unitarias y la configuración de la herramienta de análisis de cobertura JaCoCo.
 
+![WhatsApp Image 2024-12-15 at 20 59 00](https://github.com/user-attachments/assets/bdac7164-26e0-4b96-b109-7aa1701c8dc4)
+
 ### 1. **Pruebas unitarias mal hechas (JUnit)**
 
 Uno de los principales motivos por los cuales la cobertura fue de **0** es que las pruebas unitarias no fueron correctamente implementadas. Estaban todavia realizandose las pruebas para configurar jacoco correctamente y estas pruebas eran unicamente para ver si devolvia cierta cobertura, aunque las propias pruebas tampoco iban a devolver nada porque estaban mal hechas de un principio
